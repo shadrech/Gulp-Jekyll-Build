@@ -1,0 +1,18 @@
+{
+  "name": "Project name",
+  "version": "1.0",
+  "authors": [
+    "Your name"
+  ],
+  "description": "Your description",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT something something",
+  "homepage": "www.yourhomepage.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}

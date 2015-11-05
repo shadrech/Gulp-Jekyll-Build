@@ -1,0 +1,12 @@
+# Build settings
+
+markdown: kramdown
+permalink: pretty
+
+port: 3000
+
+sass:
+  sass_dir: assets/css
+  style: :nested
+
+exclude: ['node_modules', '.bowerrc', 'bower.json', 'package.json', 'gulpfile.js', 'README.md']
